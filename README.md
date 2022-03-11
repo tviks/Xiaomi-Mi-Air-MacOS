@@ -1,24 +1,22 @@
-# Xiaomi-Mi-Air-Opencore
+# OpenCORE config for Xiaomi Mi Notebook Air (2016) 
  
-## Характеристики
+## Hardware configuration
 
-| Specifications | Detail                                              |
-| -------------- | --------------------------------------------------- |
-| Computer model | Xiaomi Mi Notebook Air 13.3" 2016 |
-| Processor      | Intel Core i7 6500U          |
-| Memory         | 8GB/16GB Samsung DDR4 2133MHz                       |
-| Hard Disk      | Samsung NVMe SSD Controller                         |
-| Graphics       | Intel UHD Graphics 10th Gen, NVIDIA 940MX           |
-| Monitor        | FHD 1920x1080 (13.3 inch)          |
+| Specifications  | Detail                                              |
+| --------------  | --------------------------------------------------- |
+| Product name    | Xiaomi Mi Notebook Air 13.3" 2016                   |
+|     CPU         | Intel Core i7 6500U                                 |
+|     RAM         | 8GB Samsung DDR4 2133MHz                            |
+|  Hard Disk      | Samsung NVMe SSD 256Gb                              |
+|   Graphics      | Intel HD Graphics 520 + NVIDIA GeForce 940MX        |
+|Screen Resolution| 1920 x 1080 (13.3 inch)                             |
 
----
----
 
-Opencore
+## Opencore Version
 ```
-0.7.7-Realease
+0.7.7-Release
 ```
-SMBIOS
+## SMBIOS Version
 ```
 MacBookPro13,1
 ```
